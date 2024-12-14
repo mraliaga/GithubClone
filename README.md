@@ -8,9 +8,12 @@
 
 <h1>🧰 Technologies Used</h1>
 
-HTML5 for structured content
-SCSS for styling and responsive design
-Font Awesome icons for added visual appeal
+<ul>
+<li>HTML5 for structured content</li>
+<li>SCSS for styling and responsive design</li>
+<li>Font Awesome icons for added visual appeal</li>
+</ul>
 
 <h1>📧 Contact</h1>
+
 <a href="#">mraliagaa@gmail.com</a>
