@@ -4,7 +4,7 @@
 
 <h1>Preview</h1>
 
-<p>Coming Soon</p>
+![](./gif/recordvideo.gif)
 
 <h1>🧰 Technologies Used</h1>
 
